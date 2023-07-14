@@ -1,1 +1,1 @@
-A dynamic and responsive To-do App template
+A simple and basic to do app
